@@ -1,6 +1,7 @@
 *.spec
 *.toc
 *.txt
+*.zip
 Lovelt__.ttf
 main
 dist
